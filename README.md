@@ -66,11 +66,3 @@ src/
 ## Katkıda Bulun
 
 Eğer projeye katkıda bulunmak istersen, pull request açabilir ya da karşılaştığın sorunları bildirebilirsin. Her türlü geri bildirim benim için değerli!
-
-## Lisans
-
-Bu proje **MIT Lisansı** ile lisanslanmıştır. Detaylar için `LICENSE` dosyasına göz atabilirsin.
-
----
-
-Bu proje tamamen kendi pratiğim için geliştirildi. Eğer benzer bir şey yapmak istiyorsan ilham alabilirsin. Keyifli kodlamalar! 🚀
